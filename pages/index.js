@@ -8,7 +8,7 @@ function Home() {
   return (
     <div className="main-container">
       <div className="content-box">
-        <h1>Minha Playlist do YouTube</h1>
+        <h1>Obrigado pela Visita</h1>
 
         <div className="video-container">
           <iframe
@@ -20,9 +20,7 @@ function Home() {
           ></iframe>
         </div>
 
-        <p>
-          Este é um exemplo de vídeo da sua playlist que toca automaticamente.
-        </p>
+        <p>Obrigado!!!!</p>
       </div>
 
       {/* --- ESTILOS ATUALIZADOS AQUI --- */}
